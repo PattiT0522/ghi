@@ -1,2 +1,2 @@
-# ghi
-band
+# GHI
+Rock Band
